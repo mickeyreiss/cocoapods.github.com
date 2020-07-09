@@ -1,5 +1,5 @@
 PATH
-  remote: ./gems/CocoaPods
+  remote: gems/CocoaPods
   specs:
     cocoapods (0.23.0.rc1)
       activesupport (~> 3.2.13)
@@ -13,7 +13,7 @@ PATH
       xcodeproj (~> 0.9.0)
 
 PATH
-  remote: ./gems/Core
+  remote: gems/Core
   specs:
     cocoapods-core (0.23.0.rc1)
       activesupport (~> 3.2.13)
@@ -21,7 +21,7 @@ PATH
       nap (~> 0.5.1)
 
 PATH
-  remote: ./gems/Xcodeproj
+  remote: gems/Xcodeproj
   specs:
     xcodeproj (0.9.0)
       activesupport (~> 3.2.13)
@@ -106,8 +106,8 @@ GEM
     pygments.rb (0.5.2)
       posix-spawn (~> 0.3.6)
       yajl-ruby (~> 1.1.0)
-    rack (1.4.5)
-    rack-protection (1.5.0)
+    rack (1.4.7)
+    rack-protection (1.5.5)
       rack
     rack-test (0.6.2)
       rack (>= 1.0)
